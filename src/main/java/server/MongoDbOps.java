@@ -23,7 +23,7 @@ import org.json.JSONObject;
 public class MongoDbOps {
 
   private static final String uri =
-    "mongodb+srv://fangzhongli0:dm3DeEs1C7UGwbOn@cluster0.zd5oxwj.mongodb.net/?retryWrites=true&w=majority";
+    "mongodb+srv://PERSONALMONGODBURL.mongodb.net/?retryWrites=true&w=majority";
   private static final String database = "pantryPal";
   private static final String collection = "recipesByUserId";
   private JsonWriterSettings prettyPrint = JsonWriterSettings
