@@ -1,6 +1,4 @@
 
--# PantryPal Team 32
-
 
 Clone the repo
 
