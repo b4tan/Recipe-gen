@@ -1,6 +1,4 @@
-
-
-Clone the repo
+# Instructions to run App
 
 Create .vscode folder in root directory
 
@@ -54,7 +52,7 @@ In .vscode folder, create settings.json file, and paste the following code
 
 	}
 
-How to run Pantry pal 2:
+How to run Recipe-Generation-App:
 
 1. Go to "Run and Debug" tab.
 2. Run the Server by picking Server option in the dropdown tab and click the run icon. If successfully done, the console will display "Server started on port 8100"
